@@ -1,1 +1,1 @@
-this is my first text file in vs code
+this is my first text file in visual studio code
